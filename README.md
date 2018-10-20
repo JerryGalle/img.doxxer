@@ -13,6 +13,8 @@ Download or install steghide: http://steghide.sourceforge.net/
 
 On linux distro use: $ sudo apt-get install steghide
 
-TO EMBED PIX: steghide embed -cf theImg.jpg -ef theTxt.txt
+TO EMBED PIX: 
+steghide embed -cf theImg.jpg -ef theTxt.txt
 
-TO EXTRACT THE EMBEDDED DATA FROM JPG: steghide extract -sf theImg.jpg
+TO EXTRACT THE EMBEDDED DATA FROM JPG: 
+steghide extract -sf theImg.jpg
