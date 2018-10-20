@@ -1,7 +1,6 @@
 # img.doxxer
 img.doxxer 
-
-jerrygalle.xyz/imgDoxxer/
+http://www.jerrygalle.xyz/imgDoxxer/
 
 The images for this project are created with .js and they all have 
 embedded data that is encrypted. psswd for all the img.doxxer 
